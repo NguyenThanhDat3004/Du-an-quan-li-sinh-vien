@@ -18,4 +18,8 @@ Chia se src code
 local: code tren may tinh
 remote: duoc tao tren may chu cloud
 
-git remote 
+git remote add origin url
+day len cloud
+dung git push ten remote  ten nhanh code
+-----------------------------------
+
