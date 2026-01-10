@@ -22,4 +22,26 @@ git remote add origin url
 day len cloud
 dung git push ten remote  ten nhanh code
 -----------------------------------
+git push -u origin master lan dau thi lan sau chi can go git push 
+-----------------------------------
 
+
+staged : file chuan bi duoc commit tuc sau lenh git add
+changes : cac file truoc commit
+sau commit thi chay vao local repository ==> push se day len remote repository
+-----------------------------------
+cau lenh git ignore : khong can git quan li
+// tao file .gitignore, va khai bao file khong can git quan li vao file git ignore nay
+cau lenh git clone
+ve thu muc chua code ==> go cau lenh git clone url
+----------------------------------
+clone va thay doi remote
+sau khi clone
+git remote set url 
+----------------------------------
+branch
+git branch de biet dang o nhanh nao
+tao moi
+git branch tenMuonTao
+chuyen nhanh
+git switch tenMuonDoi
