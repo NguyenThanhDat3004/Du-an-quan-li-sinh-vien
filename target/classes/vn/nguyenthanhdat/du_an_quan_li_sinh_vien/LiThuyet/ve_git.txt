@@ -45,3 +45,6 @@ tao moi
 git branch tenMuonTao
 chuyen nhanh
 git switch tenMuonDoi
+tao nhanh thi no se ke thua master tai noi ban dang dung
+// neu chua commit ma chuyen sang nhanh khac thi se bao do, vi co su xung dot
+cach an toan thi nho commit lai truoc khi chuyen nhanh code
