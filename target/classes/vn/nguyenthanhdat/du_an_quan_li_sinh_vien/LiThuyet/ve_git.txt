@@ -48,3 +48,19 @@ git switch tenMuonDoi
 tao nhanh thi no se ke thua master tai noi ban dang dung
 // neu chua commit ma chuyen sang nhanh khac thi se bao do, vi co su xung dot
 cach an toan thi nho commit lai truoc khi chuyen nhanh code
+// chi xay ra loi neu file chinh sua da ton tai truoc do
+
+tao moi mot nhanh code va dong thoi chuyen sang nhanh code do luon
+git switch -c tenNhanh
+----------------------------------
+git switch va git checkout
+git checkout thi no chuyen xong no tu commit luon
+git checkout tenNhanhCode
+git checkout -b tenNhanhMoi  : tao moi mot nhanh code va tao ra nhanh code do
+----------------------------------
+an toan la dung switch
+----------------------------------
+
+dung tai vid 51
+merge 1 nhanh code 
+chuyen sang nhanh code ma chung ta muon merge dung tai master
